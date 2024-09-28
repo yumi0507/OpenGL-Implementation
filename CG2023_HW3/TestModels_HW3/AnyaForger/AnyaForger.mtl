@@ -1,0 +1,72 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Leg
+Ns 319.999939
+Ka 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0 -1 0 textures/Leg_BaseColor.png
+
+newmtl body
+Ns 319.999939
+Ka 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0 -1 0 textures/body_BaseColor.png
+
+newmtl eye
+Ns 200.000000
+Ka 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0 -1 0 textures/eye.png
+
+newmtl face
+Ns 319.999939
+Ka 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0 -1 0 textures/face_BaseColor.png
+
+newmtl hair
+Ns 319.999939
+Ka 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0 -1 0 textures/hair_BaseColor.png
+
+newmtl hand
+Ns 319.999939
+Ka 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0 -1 0 textures/hand_BaseColor.png
+
+newmtl headobject
+Ns 319.999939
+Ka 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0 -1 0 textures/headobject_BaseColor.png
